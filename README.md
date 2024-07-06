@@ -2,7 +2,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/welcome.png?raw=true" alt="Welcome Banner" />
 </p>
 
-# Hey there, I'm Aslan Eminovi! 👋
+# Hey there, I'm Enes Eyüpoğlu! 👋
 
 ### 📚 Computer Engineering Student | 🖥️ Future Mobile App Dev | 🌐 Web and Database Fan
 
