@@ -58,7 +58,7 @@ I'm Enes, currently a second-year Computer Engineering student at Istanbul Ticar
 
 ### 📫 How to Reach Me
 
-- **LinkedIn**: [aslan-eminovi](www.linkedin.com/in/enes-eyüpoğlu-a0987a265)
+- **LinkedIn**: [Enes Eyüpoğlu](www.linkedin.com/in/enes-eyüpoğlu-a0987a265)
 - **Email**: eness.eyupoglu@gmail.com
 - **School Email**: enes.eyupoglu@istanbulticaret.edu.tr
 
