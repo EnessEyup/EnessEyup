@@ -17,12 +17,4 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTZjMDliOTUyODl0dnBua3d4Nm92OGRjNHFlaXp4ZWo3Zmh2d2lzYmRzbWk4aTg4eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
-
-```javascript
-const enes = {
-  pronouns: "He/Him",
-  location: "Istanbul, Turkey 🇹🇷",
-  education: "Computer Engineering Student",
-  funFact: "I've learned to appreciate the lines of code I *don't* share. 😄"
 };
